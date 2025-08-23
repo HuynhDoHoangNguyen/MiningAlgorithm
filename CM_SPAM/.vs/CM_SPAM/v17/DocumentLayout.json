@@ -1,0 +1,101 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\University\\NCKH\\Sqn2Vec\\MiningAlgorithm\\CM_SPAM\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C06B452B-D8FD-4E3F-8CF2-506C3BFF26E2}|CM_SPAM.csproj|d:\\university\\nckh\\sqn2vec\\miningalgorithm\\cm_spam\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C06B452B-D8FD-4E3F-8CF2-506C3BFF26E2}|CM_SPAM.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C06B452B-D8FD-4E3F-8CF2-506C3BFF26E2}|CM_SPAM.csproj|D:\\University\\NCKH\\Sqn2Vec\\MiningAlgorithm\\CM_SPAM\\cmspam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C06B452B-D8FD-4E3F-8CF2-506C3BFF26E2}|CM_SPAM.csproj|solutionrelative:cmspam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C06B452B-D8FD-4E3F-8CF2-506C3BFF26E2}|CM_SPAM.csproj|D:\\University\\NCKH\\Sqn2Vec\\MiningAlgorithm\\CM_SPAM\\cmspamdataset.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C06B452B-D8FD-4E3F-8CF2-506C3BFF26E2}|CM_SPAM.csproj|solutionrelative:cmspamdataset.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C06B452B-D8FD-4E3F-8CF2-506C3BFF26E2}|CM_SPAM.csproj|D:\\University\\NCKH\\Sqn2Vec\\MiningAlgorithm\\CM_SPAM\\cmspamutils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C06B452B-D8FD-4E3F-8CF2-506C3BFF26E2}|CM_SPAM.csproj|solutionrelative:cmspamutils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C06B452B-D8FD-4E3F-8CF2-506C3BFF26E2}|CM_SPAM.csproj|D:\\University\\NCKH\\Sqn2Vec\\MiningAlgorithm\\CM_SPAM\\cmspamnode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C06B452B-D8FD-4E3F-8CF2-506C3BFF26E2}|CM_SPAM.csproj|solutionrelative:cmspamnode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CMSPAMUtils.cs",
+              "DocumentMoniker": "D:\\University\\NCKH\\Sqn2Vec\\MiningAlgorithm\\CM_SPAM\\CMSPAMUtils.cs",
+              "RelativeDocumentMoniker": "CMSPAMUtils.cs",
+              "ToolTip": "D:\\University\\NCKH\\Sqn2Vec\\MiningAlgorithm\\CM_SPAM\\CMSPAMUtils.cs",
+              "RelativeToolTip": "CMSPAMUtils.cs",
+              "ViewState": "AgIAAIMAAAAAAAAAAAAQwJsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T11:40:20.101Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CMSPAM.cs",
+              "DocumentMoniker": "D:\\University\\NCKH\\Sqn2Vec\\MiningAlgorithm\\CM_SPAM\\CMSPAM.cs",
+              "RelativeDocumentMoniker": "CMSPAM.cs",
+              "ToolTip": "D:\\University\\NCKH\\Sqn2Vec\\MiningAlgorithm\\CM_SPAM\\CMSPAM.cs",
+              "RelativeToolTip": "CMSPAM.cs",
+              "ViewState": "AgIAALUAAAAAAAAAAAAQwM0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T11:40:13.218Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CMSPAMDataset.cs",
+              "DocumentMoniker": "D:\\University\\NCKH\\Sqn2Vec\\MiningAlgorithm\\CM_SPAM\\CMSPAMDataset.cs",
+              "RelativeDocumentMoniker": "CMSPAMDataset.cs",
+              "ToolTip": "D:\\University\\NCKH\\Sqn2Vec\\MiningAlgorithm\\CM_SPAM\\CMSPAMDataset.cs",
+              "RelativeToolTip": "CMSPAMDataset.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAAQwFQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T11:40:07.227Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CMSPAMNode.cs",
+              "DocumentMoniker": "D:\\University\\NCKH\\Sqn2Vec\\MiningAlgorithm\\CM_SPAM\\CMSPAMNode.cs",
+              "RelativeDocumentMoniker": "CMSPAMNode.cs",
+              "ToolTip": "D:\\University\\NCKH\\Sqn2Vec\\MiningAlgorithm\\CM_SPAM\\CMSPAMNode.cs",
+              "RelativeToolTip": "CMSPAMNode.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T11:40:01.892Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\University\\NCKH\\Sqn2Vec\\MiningAlgorithm\\CM_SPAM\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\University\\NCKH\\Sqn2Vec\\MiningAlgorithm\\CM_SPAM\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAFUAAAAAAAAAAAAUwGUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T11:38:55.368Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

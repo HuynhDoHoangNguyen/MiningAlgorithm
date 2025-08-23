@@ -1,0 +1,14 @@
+D:\University\NCKH\MiningAlgorithm\SPAM\bin\Debug\SPAM.exe.config
+D:\University\NCKH\MiningAlgorithm\SPAM\bin\Debug\SPAM.exe
+D:\University\NCKH\MiningAlgorithm\SPAM\bin\Debug\SPAM.pdb
+D:\University\NCKH\MiningAlgorithm\SPAM\obj\Debug\SPAM.csproj.AssemblyReference.cache
+D:\University\NCKH\MiningAlgorithm\SPAM\obj\Debug\SPAM.csproj.CoreCompileInputs.cache
+D:\University\NCKH\MiningAlgorithm\SPAM\obj\Debug\SPAM.exe
+D:\University\NCKH\MiningAlgorithm\SPAM\obj\Debug\SPAM.pdb
+D:\University\NCKH\Sqn2Vec\MiningAlgorithm\SPAM\bin\Debug\SPAM.exe.config
+D:\University\NCKH\Sqn2Vec\MiningAlgorithm\SPAM\bin\Debug\SPAM.exe
+D:\University\NCKH\Sqn2Vec\MiningAlgorithm\SPAM\bin\Debug\SPAM.pdb
+D:\University\NCKH\Sqn2Vec\MiningAlgorithm\SPAM\obj\Debug\SPAM.csproj.AssemblyReference.cache
+D:\University\NCKH\Sqn2Vec\MiningAlgorithm\SPAM\obj\Debug\SPAM.csproj.CoreCompileInputs.cache
+D:\University\NCKH\Sqn2Vec\MiningAlgorithm\SPAM\obj\Debug\SPAM.exe
+D:\University\NCKH\Sqn2Vec\MiningAlgorithm\SPAM\obj\Debug\SPAM.pdb

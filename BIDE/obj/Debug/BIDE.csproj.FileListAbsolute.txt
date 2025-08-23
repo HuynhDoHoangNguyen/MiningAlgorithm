@@ -1,0 +1,14 @@
+D:\University\NCKH\MiningAlgorithm\BIDE\bin\Debug\BIDE.exe.config
+D:\University\NCKH\MiningAlgorithm\BIDE\bin\Debug\BIDE.exe
+D:\University\NCKH\MiningAlgorithm\BIDE\bin\Debug\BIDE.pdb
+D:\University\NCKH\MiningAlgorithm\BIDE\obj\Debug\BIDE.csproj.AssemblyReference.cache
+D:\University\NCKH\MiningAlgorithm\BIDE\obj\Debug\BIDE.csproj.CoreCompileInputs.cache
+D:\University\NCKH\MiningAlgorithm\BIDE\obj\Debug\BIDE.exe
+D:\University\NCKH\MiningAlgorithm\BIDE\obj\Debug\BIDE.pdb
+D:\University\NCKH\Sqn2Vec\MiningAlgorithm\BIDE\obj\Debug\BIDE.csproj.AssemblyReference.cache
+D:\University\NCKH\Sqn2Vec\MiningAlgorithm\BIDE\obj\Debug\BIDE.csproj.CoreCompileInputs.cache
+D:\University\NCKH\Sqn2Vec\MiningAlgorithm\BIDE\obj\Debug\BIDE.exe
+D:\University\NCKH\Sqn2Vec\MiningAlgorithm\BIDE\obj\Debug\BIDE.pdb
+D:\University\NCKH\Sqn2Vec\MiningAlgorithm\BIDE\bin\Debug\BIDE.exe.config
+D:\University\NCKH\Sqn2Vec\MiningAlgorithm\BIDE\bin\Debug\BIDE.exe
+D:\University\NCKH\Sqn2Vec\MiningAlgorithm\BIDE\bin\Debug\BIDE.pdb

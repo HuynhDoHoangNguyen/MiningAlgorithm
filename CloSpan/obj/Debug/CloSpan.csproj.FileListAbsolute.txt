@@ -1,0 +1,14 @@
+D:\University\NCKH\MiningAlgorithm\CloSpan\bin\Debug\CloSpan.exe.config
+D:\University\NCKH\MiningAlgorithm\CloSpan\bin\Debug\CloSpan.exe
+D:\University\NCKH\MiningAlgorithm\CloSpan\bin\Debug\CloSpan.pdb
+D:\University\NCKH\MiningAlgorithm\CloSpan\obj\Debug\CloSpan.csproj.AssemblyReference.cache
+D:\University\NCKH\MiningAlgorithm\CloSpan\obj\Debug\CloSpan.csproj.CoreCompileInputs.cache
+D:\University\NCKH\MiningAlgorithm\CloSpan\obj\Debug\CloSpan.exe
+D:\University\NCKH\MiningAlgorithm\CloSpan\obj\Debug\CloSpan.pdb
+D:\University\NCKH\Sqn2Vec\MiningAlgorithm\CloSpan\bin\Debug\CloSpan.exe.config
+D:\University\NCKH\Sqn2Vec\MiningAlgorithm\CloSpan\bin\Debug\CloSpan.exe
+D:\University\NCKH\Sqn2Vec\MiningAlgorithm\CloSpan\bin\Debug\CloSpan.pdb
+D:\University\NCKH\Sqn2Vec\MiningAlgorithm\CloSpan\obj\Debug\CloSpan.csproj.AssemblyReference.cache
+D:\University\NCKH\Sqn2Vec\MiningAlgorithm\CloSpan\obj\Debug\CloSpan.csproj.CoreCompileInputs.cache
+D:\University\NCKH\Sqn2Vec\MiningAlgorithm\CloSpan\obj\Debug\CloSpan.exe
+D:\University\NCKH\Sqn2Vec\MiningAlgorithm\CloSpan\obj\Debug\CloSpan.pdb

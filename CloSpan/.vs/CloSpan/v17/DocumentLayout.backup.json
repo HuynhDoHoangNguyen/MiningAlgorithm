@@ -1,0 +1,103 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\University\\NCKH\\Sqn2Vec\\MiningAlgorithm\\CloSpan\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8B97F633-BE07-4C6D-8CBB-3F3A7D870A58}|CloSpan.csproj|d:\\university\\nckh\\sqn2vec\\miningalgorithm\\clospan\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B97F633-BE07-4C6D-8CBB-3F3A7D870A58}|CloSpan.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B97F633-BE07-4C6D-8CBB-3F3A7D870A58}|CloSpan.csproj|D:\\University\\NCKH\\Sqn2Vec\\MiningAlgorithm\\CloSpan\\clospanutils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B97F633-BE07-4C6D-8CBB-3F3A7D870A58}|CloSpan.csproj|solutionrelative:clospanutils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B97F633-BE07-4C6D-8CBB-3F3A7D870A58}|CloSpan.csproj|D:\\University\\NCKH\\Sqn2Vec\\MiningAlgorithm\\CloSpan\\clospan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B97F633-BE07-4C6D-8CBB-3F3A7D870A58}|CloSpan.csproj|solutionrelative:clospan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B97F633-BE07-4C6D-8CBB-3F3A7D870A58}|CloSpan.csproj|D:\\University\\NCKH\\Sqn2Vec\\MiningAlgorithm\\CloSpan\\clospannode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B97F633-BE07-4C6D-8CBB-3F3A7D870A58}|CloSpan.csproj|solutionrelative:clospannode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B97F633-BE07-4C6D-8CBB-3F3A7D870A58}|CloSpan.csproj|D:\\University\\NCKH\\Sqn2Vec\\MiningAlgorithm\\CloSpan\\clospandataset.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B97F633-BE07-4C6D-8CBB-3F3A7D870A58}|CloSpan.csproj|solutionrelative:clospandataset.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CloSpanUtils.cs",
+              "DocumentMoniker": "D:\\University\\NCKH\\Sqn2Vec\\MiningAlgorithm\\CloSpan\\CloSpanUtils.cs",
+              "RelativeDocumentMoniker": "CloSpanUtils.cs",
+              "ToolTip": "D:\\University\\NCKH\\Sqn2Vec\\MiningAlgorithm\\CloSpan\\CloSpanUtils.cs",
+              "RelativeToolTip": "CloSpanUtils.cs",
+              "ViewState": "AgIAALoAAAAAAAAAAAAkwNUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T11:10:07.255Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CloSpan.cs",
+              "DocumentMoniker": "D:\\University\\NCKH\\Sqn2Vec\\MiningAlgorithm\\CloSpan\\CloSpan.cs",
+              "RelativeDocumentMoniker": "CloSpan.cs",
+              "ToolTip": "D:\\University\\NCKH\\Sqn2Vec\\MiningAlgorithm\\CloSpan\\CloSpan.cs",
+              "RelativeToolTip": "CloSpan.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAApwEcAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T11:09:58.723Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CloSpanDataset.cs",
+              "DocumentMoniker": "D:\\University\\NCKH\\Sqn2Vec\\MiningAlgorithm\\CloSpan\\CloSpanDataset.cs",
+              "RelativeDocumentMoniker": "CloSpanDataset.cs",
+              "ToolTip": "D:\\University\\NCKH\\Sqn2Vec\\MiningAlgorithm\\CloSpan\\CloSpanDataset.cs",
+              "RelativeToolTip": "CloSpanDataset.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAUwDwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T11:09:51.424Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CloSpanNode.cs",
+              "DocumentMoniker": "D:\\University\\NCKH\\Sqn2Vec\\MiningAlgorithm\\CloSpan\\CloSpanNode.cs",
+              "RelativeDocumentMoniker": "CloSpanNode.cs",
+              "ToolTip": "D:\\University\\NCKH\\Sqn2Vec\\MiningAlgorithm\\CloSpan\\CloSpanNode.cs",
+              "RelativeToolTip": "CloSpanNode.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T11:09:41.689Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\University\\NCKH\\Sqn2Vec\\MiningAlgorithm\\CloSpan\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\University\\NCKH\\Sqn2Vec\\MiningAlgorithm\\CloSpan\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAYwD8AAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T11:08:58.109Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
